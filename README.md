@@ -4,7 +4,7 @@
 
 * Quick start with a new project
 * Support for Timber/Twig templates
-* Easy reander HTML templates for AJAX requests
+* Easy render templates HTML into AJAX requests
 
 ### How do I get set up? ###
 
