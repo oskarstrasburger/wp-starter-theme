@@ -1,0 +1,7 @@
+{
+  "name": "wp-starter-theme",
+  "version": "0.0.1",
+  "repository": "git@bitbucket.org:oskarstrasburger/wp-starter-theme.git",
+  "author": "Oskar Strasburger <oskar.strasburger@gmail.com>",
+  "license": "MIT"
+}
