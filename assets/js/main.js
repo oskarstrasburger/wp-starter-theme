@@ -1,4 +1,4 @@
-import debounce from './utils/debounce';
+import './utils/debounce';
 
 class Site {
   constructor() {
