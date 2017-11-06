@@ -1,9 +1,8 @@
 import debounce from './utils/debounce';
 
 class Site {
-  debounceTime = 300;
-
   constructor() {
+    this.debounceTime = 300;
     this.win = window;
 
     this.bindMethods();
