@@ -11,11 +11,11 @@
 * You have to installed `composer`, `nodejs` and `yarn` on your machine
 * Install php dependencies by
 ```
-$ composer install
+composer install
 ```
 * Then install JavaScript dependecies by
 ```
-$ npm install
+npm install
 ```
 * For development run `yarn start`
 * Or for build statics by `yarn run build` (with `--p` flag for build production version)
